@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kosindu Tharinda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosindu1234&label=Profile%20views&color=0e75b6&style=flat" alt="kosindu1234" /> </p>
 
 - 🌱 I’m currently learning **BEng Software Engineering at University Of Westminster**
